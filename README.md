@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 Estudante de programação <br>- ⚡ Análise e Desenvolvimento de Sisitemas<br>- 🌱 Atualmente estudando Front-end<br>- 😄 Criador de Bugs</p>
+<p align="left">- 🔭 Estudante de programação <br>- ⚡ Análise e Desenvolvimento de Sistemas<br>- 🌱 Atualmente estudando Front-end<br>- 😄 Criador de Bugs</p>
 
 ###
 
